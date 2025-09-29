@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<htlm lang="id">
+    <head>
+        <meta charset="UTF-8">
+        <title>University of California, Berkeley</title>
+    </head>
+    <body>
+        <!--bagian atas-->
+        <table bgcolor="darkblue" width="100%">
+            <tr>
+                <td>
+                    <header>
+                        <h1><font color="white">University of California, Berkeley</font></h1>
+                        <p><b><font color="orange">"Our research improves lives"</font></b></p>
+                    </header>
+                </td>
+            </tr>
+        </table>
+        <!--menu navigasi-->
+        <nav>
+            <table width="100%" bgcolor="lightblue" cellpadding="10" cellspacing="0">
+                <tr align="center">
+                    <td><a href="#profile"><b>profile</b></a></td>
+                    <td><a href="#fakultas"><b>fakultas & program studi</b></a></td>
+                    <td><a href="#pendaftaran"><b>pendaftaran mahasiswa baru</b></a></td>
+                    <td><a href="konsultasi.html"><b>konsultasi</b></a></td>
+                    <td><a href="berita.html"><b>berita</b></a></td>
+                </tr>
+            </table>
+        </nav>
+
+        <!--konten utama-->
+        <main>
+
+            <!--bagian profil-->
+            <section id="profile">
+                <h1>UC Berkeley profile</h1>
+                <p align="justify">
+                    University of California, Berkeley is a public institution that was founded in 1868. In the 2026 edition of Best Colleges, University of California, Berkeley is ranked No. #15 in National Universities. It's also ranked No. #1 in Top Public Schools.
+                </p>
+                <p align="justify">
+                    It has a total undergraduate enrollment of 33,469 (fall 2024), its setting is city, and the campus size is 1,232 acres. The student-faculty ratio at University of California, Berkeley is 18:1, and it utilizes a semester-based academic calendar.
+                </p>
+                <table border="1px">
+                    <tr><th>No</th><th>nama program studi</th><th>jenjang</th><th>title</th></tr>
+                    <tr><th>1</th><th>Computer Science</th><th>undergraduate</th><th>B.S.C</th></tr>
+                </table>
+                
+                <h3>mata kuliah umum</h3>
+                <ul>
+                    <li>web programing</li>
+                    <li>Programming dan Program Design Methods</li>
+                    <li>Artificial Intelligence</li>
+                    <li>Database Technology</li>
+                    <li>Internet of Things</li>
+                </ul>
+
+                <h3>skils</h3>
+                <ol>
+                    <li></li>
+                </ol>
+            </section>
+
+            <section>
+                <h3>Pendaftaran mahasiswa</h3>
+            </section>
+        
+            <!--bagian desain dan interior-->
+            <section id="desain">
+                <h2>desain dan interior</h2>
+                <p align="justify">
+                    Mendefinisikan tampilan berani dari BRABUS 900 Rocket Edition yang baru, varian yang baru dikembangkan khusus dari konsep eksterior khas BRABUS Widestar.
+                    Dirancang tidak hanya untuk memberikan SUV ini tampilan yang lebih atletis tetapi juga aerodinamika hyperspace-nya, desain yang dirancang khusus ini menampilkan spoiler 
+                    depan karbon khusus yang disempurnakan dengan flap samping khusus yang mengubah wajah ikonis mobil sekaligus mengurangi daya angkat as roda depan pada kecepatan 
+                    yang sangat tinggi, yang pada gilirannya menghasilkan stabilitas pengendalian yang sempurna. Di bagian belakang, sayap yang sporty dan terpasang di atap 
+                    serta diffuser khusus memaksimalkan potensi aerodinamis penuh dari BRABUS 900 yang baru.
+                    <br>
+                    informasi detail tentang desain dan interior brabus 900 rocket edition silahkan
+                    <a href="https://www.brabus.com/en-int/cars/supercars/brabus-900-gROCKET.html" target="_blank">disini</a>
+                    <br><a href="#top">kembali ke atas</a>
+                </p>
+                </section>
+                <!--bagian kekuatan dan suara-->
+            <section id="kekuatan">
+                <h2>kekuatan dan suara</h2>
+                <p align="justify">
+                    Siap diluncurkan – Kencangkan sabuk pengaman dan hitung mundur pun dimulai. BRABUS 900 Rocket Edition berada di kelasnya sendiri;
+                    mewujudkan semangat supercar modern. Kombinasi sempurna antara penyaluran daya optimal dan daya tahan sempurna. 
+                    Mobil ini bagaikan pesawat luar angkasa – dan yakinlah, bukan hanya tampilannya yang seperti pesawat luar angkasa. Di balik kap mesinnya yang 
+                    sepenuhnya berbahan karbon, mesin khas BRABUS 900 ROCKET V8 4,5 liter twin-turbo yang dipadukan dengan turbocharger performa tinggi menghasilkan 
+                    tenaga 662 kW/900 hp, menghasilkan tenaga yang luar biasa. Dengan kapasitas mesin yang jauh lebih besar dan torsi 1.250 Nm** yang disalurkan melalui
+                    transmisi otomatis sembilan percepatan, SUV super sport berpenggerak semua roda ini mampu berakselerasi dari 0 hingga 100 km/jam hanya dalam 3,7 detik.
+                    Kecepatan tertingginya dibatasi secara elektronik hingga 280 km/jam.
+                    <br>
+                    informasi detail tentang kekuatan dan suara brabus 900 rocket edition silahkan
+                    <a href="https://www.brabus.com/en-int/cars/supercars/brabus-900-gROCKET.html" target="_blank">disini</a>
+                    <br><a href="#top">kembali ke atas</a>
+                </p>
+                </section>
+               <!--bagian kekuatan dan suara-->
+            <section id="interior">
+                <h2>interior dan kemewahan</h2>
+                <p align="justify">
+                    Keberuntungan berpihak pada yang berani – sebagaimana ditunjukkan oleh emblem belakang berbingkai merah; para ahli kami mengembangkan interior 
+                    BRABUS Masterpiece yang sepenuhnya dibuat tangan dan dirancang khusus untuk model baru ini agar sesuai dengan tampilannya yang sporty dan 
+                    bertenaga serta performanya yang tanpa kompromi. Disempurnakan hingga detail terkecil, desain kulit hitamnya memukau dengan sentuhan akhir 
+                    yang sempurna, lengkap dengan jahitan berbentuk lambang yang diaplikasikan dengan presisi tinggi pada jok, elemen trim, dan ruang kaki, yang 
+                    juga dilapisi kulit terbaik. Jahitan dekoratif berwarna yang sangat presisi menambah kontras yang menarik. Unik untuk varian yang dicat 
+                    "Stealth Grey", kontrol ini dan semua kontrolnya memiliki sentuhan akhir yang senada dengan warna kendaraan. 
+                    Jahitan atas pada BRABUS 900 ROCKET Edition dalam warna "Signature Black" menampilkan benang merah. Semua 216 elemen kokpit mulai dari 
+                    sakelar hingga penutup speaker dan ventilasi udara serta semua trim dan pegangan menampilkan kaca khas "ROCKET RED" sehingga Anda dapat 
+                    benar-benar merasa seperti di rumah sendiri saat melintasi stratosfer.
+                    <br>
+                    informasi detail tentang interior dan kemewahan brabus 900 rocket edition silahkan
+                    <a href="https://www.brabus.com/en-int/cars/supercars/brabus-900-gROCKET.html" target="_blank">disini</a>
+                    <br><a href="#top">kembali ke atas</a>
+                </p>
+                </section> 
+                <!--bagian galeri-->
+                <section id="galeri">
+                    <h2>galeri</h2>
+                    <p align="justify">
+                        Berikut beberapa foto tentang BRABUS 900 ROCKET EDITION
+                        <br>BRABUS 900 ROCKET EDITION
+                        
+                        <br><a href="#top">kembali ke atas</a>
+                    </p>
+                    </section>
+
+                <!--bagian email-->
+                <section>
+                    <form>
+                        <br>
+                        <h1>
+                            silahkan isi data anda disini 
+                        </h1>
+                        nama    :<input type="text" name="tnama"><br>
+                        email   :<input type="email" name="temail">
+                        <input type="submit" value="kirim">
+                        <br>
+                    </form>
+                </section>
+
+        </main>
+        <!--bagian bawah-->
+        <footer style="text-align: center;">
+            <p>&copy; 2025 Farel Achmad Caesario. All rights reserved.</p>
+      </footer>
+            </body>
+        </html>
+    </body>
+</html>
